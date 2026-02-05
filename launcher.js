@@ -23,7 +23,7 @@
        
             width: 320px;
             height:550px;
-            max-height:80%;
+            max-height:70%;
             background: #111b21;
             border-radius:10px;
             box-shadow: 0 10px 40px rgba(0,0,0,0.4);
